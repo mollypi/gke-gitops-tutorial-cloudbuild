@@ -1,5 +1,7 @@
 # GitOps-style Continuous Delivery For Kubernetes Engine With Cloud Build
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/afa5c488-b25d-434a-b1bb-e41cc41c868e.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/gke-gitops-tutorial-cloudbuild?orgId=561911742905)  
+
 This repository contains the code used in the
 [GitOps-style Continuous Delivery with Cloud Build](https://cloud.google.com/kubernetes-engine/docs/tutorials/gitops-cloud-build)
 tutorial.
